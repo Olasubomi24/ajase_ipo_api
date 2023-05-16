@@ -1,0 +1,1 @@
+create table social_media_users(id INT (11) not NULL AUTO_INCREMENT, email VARCHAR (50), username VARCHAR (50), PRIMARY KEY(id));
